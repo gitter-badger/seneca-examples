@@ -1,5 +1,7 @@
 # seneca-examples - Node.js plugin examples for the Seneca toolkit
 
+[![Join the chat at https://gitter.im/heriipurnama/seneca-examples](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/heriipurnama/seneca-examples?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository is a collection of simple examples to get you started
 using [senecajs.org](http://senecajs.org).
 
